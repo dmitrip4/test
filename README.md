@@ -10,7 +10,7 @@
 <body>
 	<div id="main">
 		<h1>Онлайн магазин</h1>
-		<img src="C:/Users/Dima/Documents/GitHub/test/p1.png">
+		<img src="p1.png">
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 		<button id="buy">Купить</button>
 	</div>
